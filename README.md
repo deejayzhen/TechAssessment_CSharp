@@ -1,5 +1,8 @@
 ## Technical Assessment on .Net
 
+### Project Overview
+The whole project is made in C# .Net Core 6 ASP.Net MVC, on the Products tab you can Create, Read, Update, and Delete and item.
+
 ### Setting up the database
 1. Change the `Server` in `appsettings.json` according to your local server (`SqlServer Management Studio 19`).
 
